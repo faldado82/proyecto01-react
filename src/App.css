@@ -4,6 +4,7 @@
 }
 
 html, body{
+  
   font-size: 18px;
   background-color: #e5e5e5;
 }
@@ -17,7 +18,8 @@ h1{
   margin: 40px 0;
 }
 
-.App{
+.App{ 
+  padding: 0 600px;
   min-height: 100vh;
   display: flex;
   flex-wrap: wrap;
